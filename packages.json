@@ -1,12 +1,12 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "izuna",
-            "title": "이즈나 온라인",
-            "version": "1",
-            "location": "izuna.json",
-            "priority": 1
-        }
-    ]
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "이즈나 온라인 : Re",
+      "name" : "Izuna",
+      "version" : "2026-09-28-08-12-56",
+      "location" : "izuna.json",
+      "priority" : 0
+    }
+  ]
 }
