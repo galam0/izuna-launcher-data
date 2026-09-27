@@ -1,0 +1,12 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "izuna",
+            "title": "이즈나 온라인",
+            "version": "1",
+            "location": "izuna.json",
+            "priority": 1
+        }
+    ]
+}
