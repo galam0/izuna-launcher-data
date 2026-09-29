@@ -1,7 +1,7 @@
 {
   "title": "이즈나 온라인 : Re",
   "name": "Izuna",
-  "version": "2026-09-28-08-12-56",
+  "version": "2026-09-29-20-54-35",
   "minimumVersion": 3,
   "librariesLocation": "libraries",
   "objectsLocation": "https://storage.googleapis.com/izuna-launcher-objects/objects",
@@ -58,6 +58,14 @@
     },
     {
       "type": "file",
+      "hash": "14203130cba06095d909b240a5aecb33bb82ea18",
+      "location": "14/20/14203130cba06095d909b240a5aecb33bb82ea18",
+      "to": "mods/pixelmon_xaero_icons-1.0.0.jar",
+      "size": 3072,
+      "userFile": false
+    },
+    {
+      "type": "file",
       "hash": "645bace6421ccc30e1ee33a77f07460f208c08cc",
       "location": "64/5b/645bace6421ccc30e1ee33a77f07460f208c08cc",
       "to": "mods/variedcommodities-1.21.1-1.0.0.jar",
@@ -78,6 +86,14 @@
       "location": "2d/ee/2dee302e8e4162ffc8b58ae0303f01613bed26c6",
       "to": "resourcepacks/pixelmon-sprite-resourcepack.zip",
       "size": 360411,
+      "userFile": false
+    },
+    {
+      "type": "file",
+      "hash": "fce3fd3973a274618573fa27dffa64f71f9537ac",
+      "location": "fc/e3/fce3fd3973a274618573fa27dffa64f71f9537ac",
+      "to": "resourcepacks/Xaero-Pixelmon-1_21_1-fixed.zip",
+      "size": 5104303,
       "userFile": false
     },
     {
